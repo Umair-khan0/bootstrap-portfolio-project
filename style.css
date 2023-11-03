@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(45deg, #123, maroon);
+    font-family: 'Montserrat';
+    color: #fff;
+}
+section{
+    min-height: 100vh;
+}
+.navbar{
+    border-radius: 30px;
+    background: linear-gradient(45deg, #800000, #123);
+}
+
+.navbar-brand{
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+#home .container-fluid .row{
+    padding: 10% 15% 5%;
+    text-align: center;
+}
+h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.btn{
+    color: #fff;
+}
+.image{
+    width: 60%;
+    margin: 0 auto;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.testimonal-data{
+    height: 300px;
+    overflow: auto;
+    border: 5px solid #fff; 
+}
+.links a, .visit a{
+    color: #fff;
+}
+
+.copyright{
+    background-color: #800000;
+}
